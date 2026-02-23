@@ -176,7 +176,7 @@ This repository is part of the **ALICE** (Adaptive Lightweight Intelligent Compr
 |---------|-------------|------|
 | **ALICE-SDF** | SDF engine powering this conversion | [GitHub](https://github.com/ext-sakamoro/ALICE-SDF) |
 | **ALICE Ecosystem** | 52-component edge-to-cloud data pipeline | [GitHub](https://github.com/ext-sakamoro/ALICE-Eco-System) |
-| **AI Modeler SaaS** | Browser-based 3D modeling with ALICE-SDF backend | Coming soon |
+| **AI Modeler SaaS** | Browser-based 3D modeling with ALICE-SDF backend | [GitHub](https://github.com/ext-sakamoro/AI-Modeler-SaaS) |
 
 ## Contributing
 

@@ -168,6 +168,16 @@ The converted `.asdf.json` files inherit the **CC0** license from the original a
 - **SDF Conversion**: [ALICE-SDF](https://github.com/ext-sakamoro/ALICE-SDF) by Moroya Sakamoto
 - **GameMakers Article**: [1,000 free GLB assets](https://gamemakers.jp/article/2026_02_17_131473/)
 
+## ALICE Ecosystem
+
+This repository is part of the **ALICE** (Adaptive Lightweight Intelligent Compression Engine) ecosystem:
+
+| Project | Description | Link |
+|---------|-------------|------|
+| **ALICE-SDF** | SDF engine powering this conversion | [GitHub](https://github.com/ext-sakamoro/ALICE-SDF) |
+| **ALICE Ecosystem** | 52-component edge-to-cloud data pipeline | [GitHub](https://github.com/ext-sakamoro/ALICE-Eco-System) |
+| **AI Modeler SaaS** | Browser-based 3D modeling with ALICE-SDF backend | Coming soon |
+
 ## Contributing
 
 Want to add more collections? The conversion pipeline is open:

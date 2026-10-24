@@ -153,7 +153,7 @@ Tier 3-4 will achieve the "floppy disk" goal — all 991 assets in under 1MB.
 ## License
 
 ### Original Assets
-All 3D assets in this repository are derived from [Open Source 3D Assets](https://www.opensource3dassets.com/) by [Polygonal Mind](https://www.polygonalmind.com/), released under **CC0 1.0 Universal (Public Domain)**. No attribution required, but we credit them because they're awesome.
+All 3D assets in this repository are derived from [Open Source 3D Assets](https://www.opensource3dassets.com/) by [Polygonal Mind](https://www.polygonalmind.com/), released under **CC0 1.0 Universal (Public Domain)**. No attribution required.
 
 ### SDF Conversion
 The SDF conversion layer and tooling are provided by [ALICE-SDF](https://github.com/ext-sakamoro/ALICE-SDF).
